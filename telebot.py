@@ -36,7 +36,7 @@ async def welcome(message: types.Message):
     """
     This handler receives messages with `/start` or  `/help` command.
     """
-    await message.reply("Hi\n BAWAAL!!\nCreated by Siddharth. How can I assist you?")
+    await message.reply("Hi\n BAWAAL!!\n Created by Siddharth. How can I assist you?")
 
 @dispatcher.message_handler(commands=['clear'])
 async def clear(message: types.Message):
@@ -52,7 +52,7 @@ async def helper(message: types.Message):
     A handler to display the help menu.
     """
     help_command = """
-    Hi There, I'm BAWAAL!! Telegram bot created by Siddharth! Please follow these commands - 
+    Hi There, I'm  Telegram bot created by Siddharth! Please follow these commands - 
     /start - to start the conversation
     /clear - to clear the past conversation and context.
     /help - to get this help menu.
