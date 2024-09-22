@@ -21,7 +21,7 @@ The bot is integrated with OpenAI's GPT models via the OpenAI API, where user qu
 6. Open Terminal and run (python telebot.py)
 
 ## Techstack
-1.python version = 3.7.4
-2.Openai
-3.Aiogram 
-4.Dotenv
+1. python version = 3.7.4
+2. Openai
+3. Aiogram 
+4. Dotenv
