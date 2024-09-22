@@ -1,7 +1,14 @@
 # Telegram-Bot
 
-Build a TeleGram Bot (NAWAAB) that can help you to resolve your queries for day to day task. It uses telegram-bot-api which we is connected code using dispatcher from aiogram library. It sends the query to GPT using openai-api-key and displays the answer recieved. 
+The NAWAAB Telegram bot is designed to assist in resolving day-to-day task-related queries. It leverages the Telegram Bot API for communication and interacts with users through the aiogram library, utilizing its Dispatcher to handle updates and dispatch commands efficiently.
 
+The bot is integrated with OpenAI's GPT models via the OpenAI API, where user queries are forwarded for processing. Upon receiving the response from the GPT model, NAWAAB parses and displays the result to the user, providing intelligent and context-aware answers to task-based inquiries.
+
+
+<p align="center">
+  <img src="https://github.com/SiddharthKrSingh/Telegram-Bot/blob/main/bot-image.jpg" width="350" title="hover text">
+
+</p>
 
 ## How To Use
 1. Clone the repository.
